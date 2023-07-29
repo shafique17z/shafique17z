@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Android app development and iOS-learning will be next.
 - 💞️ I’m looking to collaborate on mobile app development.
 - 📫 How to reach me: I'm mostly active on facebook (https://www.facebook.com/shafique17z/)
-- I LOVE STREAKS
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shafique17z)](https://git.io/streak-stats)
 
